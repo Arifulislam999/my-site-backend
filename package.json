@@ -7,7 +7,7 @@
         "start": "json-server --watch db.json --no-cors true --port 9000"
     },
     "keywords": [],
-    "author": "",
+    "author": "Ariful Islam",
     "license": "ISC",
     "dependencies": {
         "json": "^11.0.0",
